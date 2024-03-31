@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\bin\Debug\net6.0\Class,Inherience.exe
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\bin\Debug\net6.0\Class,Inherience.deps.json
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\bin\Debug\net6.0\Class,Inherience.runtimeconfig.json
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\bin\Debug\net6.0\Class,Inherience.dll
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\bin\Debug\net6.0\Class,Inherience.pdb
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.dll
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\refint\Class,Inherience.dll
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.pdb
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\Class,Inherience.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Class,Inherience\Class,Inherience\obj\Debug\net6.0\ref\Class,Inherience.dll
